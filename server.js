@@ -22,6 +22,9 @@ mongoose.connect(MONGODB_URI, {
   useUnifiedTopology: true
 });
 
+mongoose.set('useCreateIndex', true);
+mongoose.set('debug', true);
+
 // routes
 app.use(require("./routes/api.js"));
 
