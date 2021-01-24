@@ -1,6 +1,8 @@
 # Budget Tracker Starter
 ![license](https://img.shields.io/badge/MIT-License-brightgreen)
- [Live App](https://floating-fortress-49753.herokuapp.com/)
+<br>
+ [View Live App Here](https://floating-fortress-49753.herokuapp.com/)
+<br>
  [Github](https://github.com/cgsdesign/budget-tracker)
 
 ## Description 
@@ -9,8 +11,8 @@ For this project I worked with IndexedDB, Service-Worker, Manifest, MongoDB Atla
 
 ## Key Features
 * Offline ability to add transactions via IndexedDB
-* Upon reconection to internet, stored transactions automatical sent to DB 
-* User notificaton when transactions are added to DB
+* Upon reconnection to internet, stored transactions automatically sent to DB
+* User notification when transactions are added to DB
 
 ## Installation
 Download files from [this github repo](https://github.com/cgsdesign/E-CommerceBackEnd). Instal express, mongoose, morgan, & compression npms. 
