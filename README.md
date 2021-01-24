@@ -1,7 +1,7 @@
 # Budget Tracker Starter
 ![license](https://img.shields.io/badge/MIT-License-brightgreen)
-### [Live app] (https://floating-fortress-49753.herokuapp.com/)
-### [Github] (https://github.com/cgsdesign/budget-tracker)
+ [Live App](https://floating-fortress-49753.herokuapp.com/)
+ [Github](https://github.com/cgsdesign/budget-tracker)
 
 ## Description 
 
@@ -16,7 +16,6 @@ For this project I worked with IndexedDB, Service-Worker, Manifest, MongoDB Atla
 Download files from [this github repo](https://github.com/cgsdesign/E-CommerceBackEnd). Instal express, mongoose, morgan, & compression npms. 
 * Note: this app is intended for Google Crome Use Only.
 
-<br>
 ![Budget-Tracker](./LiveAppStill.png)
 
 ## License
